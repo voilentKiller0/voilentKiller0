@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @voilentKiller0
-- 👀 I’m interested in Android and Machine Learning
+- 👋 Hi, I’m Chandreshwar Vishwakarma
+- 👀 I’m interested in Android Development and Machine Learning
 - 🌱 I’m currently learning machine learning and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/chandreshwar-vishwakarma-a57588196/
