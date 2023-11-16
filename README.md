@@ -20,10 +20,12 @@
 </div>
 
 ###
+<hr>
 
 <h1 align="center">hey there 👋</h1>
 
 ###
+<hr>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -32,6 +34,7 @@
 <p align="left">- 👋 Hi, I’m Chandreshwar Vishwakarma<br>- 👀 I’m interested in Android Development, Machine Learning and Natural Language Processing<br>- 🌱 I’m currently learning machine learning and DSA<br>- 📫 How to reach me https://www.linkedin.com/in/chandreshwar-vishwakarma-a57588196/</p>
 
 ###
+<hr>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -66,6 +69,7 @@
 </div>
 
 ###
+<hr>
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -73,7 +77,22 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=voilentKiller0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+
+###
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=voilentKiller0&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" height="200" alt="readme-stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=voilentKiller0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
+<hr>
+
+<h3 align="left">🏆   GitHub Trophies:
+
+<div align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=vendetta-web&theme=radical&no-frame=true&no-bg=true&margin-w=4" height="200" alt="Trophies stat" />
+</div>
+
+###
+
